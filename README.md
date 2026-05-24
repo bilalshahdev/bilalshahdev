@@ -1,3 +1,6 @@
+### Hi there 👋
+[![Bilal Shah profile views](https://u8views.com/api/v1/github/profiles/118194427/views/day-week-month-total-count.svg)](https://u8views.com/github/bilalshahdev)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f0f10,55:111827,100:f59e0b&text=Bilal%20Shah&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer&descAlignY=62&descSize=18" alt="Bilal Shah - Senior Full Stack Developer" width="100%" />
