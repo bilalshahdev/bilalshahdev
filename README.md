@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f0f10,55:111827,100:f59e0b&text=Bilal%20Shah&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer&descAlignY=62&descSize=18" alt="Bilal Shah - Senior Full Stack Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f0f10,55:111827,100:f59e0b&text=Bilal%20Shah&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=62&descSize=18" alt="Bilal Shah - Full Stack Developer" width="100%" />
 
 <p>
   <a href="https://bilalshah.dev"><img src="https://img.shields.io/badge/Portfolio-bilalshah.dev-f59e0b?style=for-the-badge&labelColor=111827" alt="Portfolio" /></a>
@@ -19,7 +19,7 @@
 
 ## What I Do
 
-I am a **Senior Full Stack Developer** focused on building modern, fast, and maintainable web applications for startups, agencies, SaaS products, and businesses.
+I am a **Full Stack Developer** focused on building modern, fast, and maintainable web applications for startups, agencies, SaaS products, and businesses.
 
 My work usually sits around:
 
